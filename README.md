@@ -1,5 +1,5 @@
 ## cogs108-final
-Final project for COGS108 - Data Science in Practice (Spring 2020), taken at University of California, San Diego.
+Final project for COGS108 - Data Science in Practice (Spring 2020), taken at University of California, San Diego. Projected was completed in the span of a day.
 
 ### Overview
 The goal of this project is to use a dataset provided by Yelp, which contains information on restaurant ratings, review counts, ZIP codes, and average price, to predict a given restaurant's Yelp score. The predicted Yelp score will be determined using feature vectors extracted from restaurant reviews, location, and price, provided in the data set.
