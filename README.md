@@ -1,4 +1,4 @@
-## cogs108-final
+# cogs108-final
 Final project for COGS108 - Data Science in Practice (Spring 2020), taken at University of California, San Diego. Projected was completed in the span of one day.
 
 ### Overview
